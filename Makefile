@@ -1,3 +1,4 @@
-danlianbiao:danlianbiao.c testdanlianbiao.c
-	gcc -g danlianbiao.c testdanlianbiao.c -o danlianbiao
+#This is a sample
+testCal:testgraph.c graph.c
+	gcc -g testgraph.c graph.c  -o testCal
 
